@@ -24,6 +24,8 @@ public class MBBLabController {
 		List<Employee> list =mService.findAllEmployee();
 			
 			
+		
+		
 		return list;
 		
 	}
